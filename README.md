@@ -29,20 +29,15 @@ Equipe de Desenvolvimento
 - Raizen	- Carlos Lain
 
 ### Coordenadores
-- Cezarro	- Fernando Cezarro
+- Kooler	- Gustavo Bucci
+- Wolf		- João Victor Senos
 
 ### Desenvolvedores
-- I am Cold	- Márcio Montenegro
-- Otonii	- Leandro Otonii
-- Yum		- Luann Peixe
-- Wolf		- João Victor Senos
-- Golen Maker	- Ligleyson Warnielle
+- Schrwaizer	- Junior Backes
+- xChiron	- Diego da S. Pinheiro
+- Okuz		- Lucas Oliveira
+- Kyuke		- Thiago da Silva Gomes
+- Shermie	- David Martins
 	
 ### Estágiários/Aprendizes
-- Ryuzaki Aiko	- Vilmar Rosset
-- Rayzir	- Guilherme Fontenele
-- PHpedro	- Pedro
-- Eru Yuuko
-- KaduKiller 
-- beckdeveloper
-- Apo
+- Kira Cross	- Júlio César
